@@ -1,0 +1,9 @@
+{
+  "ping_init": "google.com",
+  "api_init": "https://aprojectlitetest.ar.co.th/mobile/api/Authorize/Authen",
+  "api_user": "https://aprojectlitetest.ar.co.th/Service/api/User/Authen",
+  "api_menu": "https://aprojectlitetest.ar.co.th/Service/api/SP/Data",
+  "UrlApi": "https://aprojectlitetest.ar.co.th/Service/api/",
+  "download_file": "https://aprojectlitetest.ar.co.th/Service/api/FileUpload/GetFile",
+  "upload_file": "https://aprojectlitetest.ar.co.th/Service/api/FileUpload/ActivityUpload"
+}
